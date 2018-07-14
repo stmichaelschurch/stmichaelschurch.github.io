@@ -1,0 +1,24 @@
+body {
+  padding-top: 75px;
+  background-image: url("../images/background_image_res.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: #D0D7DD; 
+}
+
+@media (min-width: 992px) {
+
+}
+
+.bg-image-full {
+  background: no-repeat center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.community {
+	background-color: #F39200;
+}
