@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index_home.html",
+			"settings":
+			{
+				"buffer_size": 12681,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/app.css",
+			"settings":
+			{
+				"buffer_size": 638,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/carousel.css",
+			"settings":
+			{
+				"buffer_size": 1296,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "/* carousel */"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/steve/OneDrive - Steve/Documents/GitHub/stmichaelschurch.github.io",
+		"/Users/steve/OneDrive - Steve/Documents/GitHub/stmichaelschurch.github.io/css"
+	],
+	"file_history":
+	[
+		"/var/folders/xl/zbpwxxvx49dfb7t1vptgj3_w0000gn/T/credentials.yml.enc.27424",
+		"/Users/steve/OneDrive - Steve/Documents/GitHub/stmichaelschurch.github.io/index.html",
+		"/Users/steve/Rails/song-manager/config/environments/test.rb",
+		"/Users/steve/Rails/song-manager/config/environments/production.rb",
+		"/Users/steve/OneDrive - Steve/Documents/Church/Crown/website/index.html",
+		"/Users/steve/Rails/song-manager/Gemfile",
+		"/Users/steve/Rails/song-manager/config/initializers/dropbox.rb",
+		"/Users/steve/OneDrive - Steve/Documents/Church/Crown/website/js/bootstrap.bundle.min.js",
+		"/Users/steve/OneDrive - Steve/Documents/Church/Crown/website/js/jquery.min.js",
+		"/Users/steve/OneDrive - Steve/Documents/Church/Crown/website/css/bootstrap.min.css",
+		"/Users/steve/OneDrive - Steve/Documents/Church/Crown/website/css/app.css",
+		"/Users/steve/Documents/GitHub/index.html",
+		"/Users/steve/Documents/GitHub/allsaintsrd.github.io/index.html",
+		"/Users/steve/Rails/rails-bootstrap/Gemfile",
+		"/Users/steve/Rails/rails-bootstrap/config/database.yml",
+		"/Users/steve/Rails/rails-bootstrap/.ruby-gemset",
+		"/Users/steve/Rails/rails-bootstrap/.ruby-version",
+		"/Volumes/Backup/uat_20180326_2112_0633.log",
+		"/Volumes/Backup/uat_20180326_1842_2112.log",
+		"/Volumes/Backup/uat_20180326_1627_1842.log",
+		"/Volumes/Backup/uat_20180326_1422_1627.log",
+		"/Volumes/Backup/uat_20180326_1307_1422.log",
+		"/Volumes/Backup/uat_20180326_1248_1307.log",
+		"/Volumes/Backup/uat/xaj",
+		"/Volumes/Backup/xaa",
+		"/Users/steve/Downloads/openvpn/VPNConfig.ovpn",
+		"/Volumes/web/6930p.php",
+		"/Volumes/web/phpinfo.php",
+		"/Volumes/web/wol.php",
+		"/Users/steve/Downloads/CloudSync/var/log/cloudsync/daemon.log",
+		"/Users/steve/Downloads/debug.dat",
+		"/Users/steve/Rails/wcc-signage/app/views/devise/sessions/new.html.erb",
+		"/Users/steve/Rails/wcc-signage/config/initializers/switch_user.rb",
+		"/Users/steve/Rails/wcc-signage/test/controllers/users_controller_test.rb",
+		"/Users/steve/Rails/wcc-signage/config/environments/staging.rb",
+		"/Users/steve/Rails/wcc-signage/Gemfile",
+		"/Users/steve/Rails/wcc-signage/config/application.rb",
+		"/Users/steve/Rails/wcc-signage/db/seeds.rb",
+		"/Users/steve/Rails/wcc-signage/app/views/layouts/marketing.html.erb",
+		"/Users/steve/Rails/wcc-signage/app/views/layouts/admin.html.erb",
+		"/Users/steve/Rails/wcc-signage/config/environments/development.rb",
+		"/Users/steve/Rails/archive/signage/db/migrate/20150914173008_devise_create_users.rb",
+		"/Users/steve/Rails/signage_mysql/Gemfile",
+		"/Users/steve/Rails/signage_mysql/config/database.yml",
+		"/Users/steve/Rails/signage_postgres/Gemfile",
+		"/Users/steve/Rails/signage/.ruby-version",
+		"/Users/steve/Rails/signage/config/database.yml",
+		"/Users/steve/Rails/blog/lib/tasks/resque.rake",
+		"/Users/steve/Rails/wesadmin/config/initializers/resque.rb",
+		"/Users/steve/Rails/blog/config/initializers/resque.rb",
+		"/Users/steve/Rails/blog/log/resque_worker.log",
+		"/Users/steve/Rails/wesadmin/config/scheduled_jobs.yml",
+		"/Users/steve/Rails/wesadmin/config/database.yml",
+		"/Users/steve/Rails/blog/app/jobs/cron_task.rb",
+		"/Users/steve/Rails/blog/config/schedule.yml",
+		"/Users/steve/Rails/blog/config/resque.yml",
+		"/Users/steve/Rails/blog/config/routes.rb",
+		"/Users/steve/Rails/blog/app/jobs/sleeper.rb",
+		"/Users/steve/Rails/blog/Rakefile",
+		"/Users/steve/Rails/carddav/Gemfile",
+		"/Users/steve/Downloads/songmanager_20171219.sql",
+		"/Users/steve/Downloads/Snazzy.terminal",
+		"/Users/steve/Rails/google_calendar/google_calendar.rb",
+		"/Users/steve/.hyper.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index_home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4894,
+								4894
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 816.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/carousel.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1191,
+								1191
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/* carousel */",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 371.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "crown.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"20170906202418_remove_emergency_fields_from_signs",
+				"signage/db/migrate/20170906202418_remove_emergency_fields_from_signs.rb"
+			],
+			[
+				"20161129191259_add_visibility_to_signs",
+				"signage/db/migrate/20161129191259_add_visibility_to_signs.rb"
+			],
+			[
+				"20151120194650_add_approved_to_sign_slides",
+				"signage/db/migrate/20151120194650_add_approved_to_sign_slides.rb"
+			],
+			[
+				"20151112182949_add_transition_to_signs",
+				"signage/db/migrate/20151112182949_add_transition_to_signs.rb"
+			],
+			[
+				"20151112182949",
+				"signage/db/migrate/20151112182949_add_transition_to_signs.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/OneDrive - Steve/Documents/Church/Crown/website/crown.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
