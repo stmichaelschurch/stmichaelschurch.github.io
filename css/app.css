@@ -29,7 +29,7 @@ body {
 
 }
 
-#container_text a:link, #container_text a:visited {
+#container_text a:link, #container_text a:visited, #container_text a:active, #container_text a:hover  {
   color: white
 }
 
