@@ -1,15 +1,18 @@
 body {
   padding-top: 75px;
-  background-image: url("../images/background_image_res.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
   background-color: #D0D7DD; 
 }
 
 @media (min-width: 992px) {
 
 }
+
+/*
+.container {
+  max-width:940px;
+  margin:0 auto;  
+}
+*/
 
 .home_section {
   font-family: Montserrat; 
@@ -26,7 +29,19 @@ body {
 }
 
 .recreate {
+  background-color: rgba(4,112,184,0.9);
+}
 
+.offering {
+  background-color: rgba(94,165,67,0.9);
+}
+
+.word {
+  background-color: rgba(190,21,34,0.9);
+}
+
+.networks {
+  background-color: rgba(149,27,129,0.9);
 }
 
 #container_text a:link, #container_text a:visited, #container_text a:active, #container_text a:hover  {
@@ -38,4 +53,25 @@ body {
   opacity: 0.5;
   margin: -54px 20px 12px; 
   position: absolute;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.quotes {
+  display: none;
+  font-size:26px;
+  font-weight:normal;
+  font-style:italic;
+  color:#fff;
+}
+
+.quotes:before {
+  content: '\201C';
+}
+
+.quotes:after {
+  content: '\201D';
 }
