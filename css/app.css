@@ -1,6 +1,7 @@
 body {
-  padding-top: 75px;
+  padding: 50px 0 0 0;
   background-color: #D0D7DD;
+  font-family: Raleway;
 }
 
 @media (min-width: 992px) {
@@ -14,23 +15,29 @@ body {
 }
 */
 
-.image-bg {
-  background: url('../images/crown_banner.png') no-repeat center center scroll;
-  height: 30px;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+.content_panels {
+  margin: 15px;
+}
+
+.content_panels a:link, .content_panels a:visited, .content_panels a:active, .content_panels a:hover  {
+  color: white
 }
 
 .home_section {
-  font-family: Montserrat; 
   font-style: bold; 
   color: white;
 }
 
 .padding {
   padding: 15px;
+}
+
+.introduction {
+  
+}
+
+.quotes_panel {
+  background-color: rgba(54,54,54,0.8);
 }
 
 .community {
@@ -71,7 +78,7 @@ body {
 
 .quotes {
   display: none;
-  font-size:26px;
+  font-size:24px;
   font-weight:normal;
   font-style:italic;
   color:#fff;
