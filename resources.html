@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Crown rule of life">
     <meta name="author" content="St Michael's Church Budbrooke">
-    <title>CROWN</title>
+    <title>CROWN - Resources</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/app.css" rel="stylesheet">
     <link href="css/carousel.css" rel="stylesheet">
@@ -45,10 +45,10 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item"><a class="nav-link active" href="index_home.html">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="index_home.html">Home</a></li>
             <li class="nav-item"><a class="nav-link" href="foundations.html">Foundations</a></li>
             <li class="nav-item"><a class="nav-link" href="teaching.html">Teaching</a></li>
-            <li class="nav-item"><a class="nav-link" href="resources.html">Resources</a></li>
+            <li class="nav-item"><a class="nav-link active" href="resources.html">Resources</a></li>
           </ul>
         </div>
       </div> 
@@ -63,39 +63,36 @@
       </div>
     </div>
 
-    <div class="container padding shadow p-3 mb-5 bg-white rounded" style="color: black; margin-top: 20px">
+    </header>
+
+    <!-- Content section -->
+    <section class="py-3 home_section">
       
-      <!-- introduction -->
-      <div class="row padding introduction" style="padding-bottom: 0px">
-        <div class="col-12">
-          <h3>What is CROWN?</h3>
-          <p>As you begin to take steps to form your own rule of life then there are various resources and support available - from study materials, video teaching and mentoring support. We encourage everyone to connect with others to share the journey together because that’s how God shaped the church, to bring his best out of one another.</p>
-          <p><a href="downloads/CROWN_booklet.pdf">CROWN Introduction</a></p>
-        </div>
+      <div class="container" style="background-color: rgba(255,255,255,0.9); margin-bottom: 20px; padding-left: 0px; padding-right: 0px;">
+        <hr style="border-top: 20px solid rgba(243,146,0); margin-bottom: 0px" />
+        <div class="row padding">
+          <div class="col-lg-2 col-md-4 col-sm-4" style="color: black; padding: 20px;">
+            <img src="images/crown_logo_sml.png" height="100px" /><br/>
+            <p style="font-style: italic; font-size: 0.9em"></p>
+          </div>
+          <div class="col-lg-6 col-md-8 col-sm-8" style="color: black; padding: 20px;">
+            
+            <h2><strong>Resources</strong></h2>
+            <p><a href="downloads/CROWN_getting_started.pdf">Getting Started</a></p>
+
+            <p><a href="downloads/CROWN_going_deeper.pdf">Going Deeper</a></p>
+
+            <p><a href="downloads/CROWN_discipling_triplets.pdf">Discipling Triplets</a></p>
+          </div>
+          <div class="col-lg-4 col-md-12 col-sm-12" style="text-align: left; vertical-align: top; color: black; padding: 20px;">
+            
+          </div>
+        </div> 
       </div>
-
-      <!-- quotes -->
-      <div class="row padding quotes_panel content_panels">
-        <div class="col-12">
-          <h5 style="color: rgba(192,192,192,0.9)">Here's what others had to say&hellip;</h5>
-          <h2 class="quotes">I now feel I can say I know who I am, my identity in Christ has been engraved on my heart and it is what I hold on to...</h2>
-          <h2 class="quotes">I have found the whole School of Mission experience most valuable and wanted to say a huge thank you for all your time, support and input throughout the year.</h2>
-          <h2 class="quotes">The rhythm of life you have taught me keeps me close to God and I will not stop praying that it will have the same wonderful effect on each individual of the church</h2>
-        </div>
-      </div>
-
-      <div class="col-12" style="padding-top: 15px">
-        <h4>New to CROWN?</h4>
-        <p>Visit the foundations sections to take a look at the series that introduces CROWN and explains what it is and how it can be </p>
-
-        <h4>Running CROWN?</h4>
-        <p>
-          We have video and associated PDFs available for the five sections of CROWN, covering Community, Recreate, Offering, Worship and Networks
-          <br />
-          There are also mentor resources available
-        </p>
       
-    </div>
+    </section>
+
+    
 
     <!-- Footer -->
     <footer class="py-3 bg-dark fixed-bottom">
@@ -108,22 +105,6 @@
     <!-- Bootstrap core JavaScript -->
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
-
-    <script>
-      (function() {
-          var quotes = $(".quotes");
-          var quoteIndex = -1;
-          
-          function showNextQuote() {
-              ++quoteIndex;
-              quotes.eq(quoteIndex % quotes.length)
-                  .fadeIn(2000)
-                  .delay(2000)
-                  .fadeOut(2000, showNextQuote);
-          }     
-          showNextQuote();
-      })();
-    </script>
 
   </body>
 
