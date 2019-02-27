@@ -16,7 +16,9 @@ body {
 */
 
 .content_panels {
-  margin: 15px;
+  margin-top: 15px;
+  margin-left: 1px;
+  margin-right: 10px;
 }
 
 .content_panels a:link, .content_panels a:visited, .content_panels a:active, .content_panels a:hover  {
